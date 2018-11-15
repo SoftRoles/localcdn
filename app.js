@@ -5,6 +5,7 @@ var cors = require("cors")
 const app = express();
 app.use("/localcdn", express.static(path.join(__dirname, "node_modules")))
 app.use("/localcdn", express.static(path.join(__dirname, "bower_components")))
+app.use("/localcdn", express.static(path.join(__dirname, "custom")))
 
 app.use(cors())
 
