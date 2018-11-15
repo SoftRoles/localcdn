@@ -1,0 +1,17 @@
+{
+  "name": "3009-localcdn",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Hüseyin Yiğit <yigit.hsyn@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/yigithsyn/3009-localcdn",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
