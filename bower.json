@@ -15,6 +15,7 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap-toc": "^1.0.0"
+    "bootstrap-toc": "^1.0.0",
+    "webix": "^6.1.0"
   }
 }
