@@ -1,5 +1,5 @@
 {
-  "name": "3009-localcdn",
+  "name": "localcdn",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yigithsyn/3009-localcdn.git"
+    "url": "git+https://github.com/softroles/localcdn.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yigithsyn/3009-localcdn/issues"
+    "url": "https://github.com/softroles/localcdn/issues"
   },
-  "homepage": "https://github.com/yigithsyn/3009-localcdn#readme"
+  "homepage": "https://github.com/softroles/localcdn#readme"
 }
